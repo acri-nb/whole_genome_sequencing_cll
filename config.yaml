@@ -1,0 +1,7 @@
+prefix: '1f92f521a2d46e2ff675350a8604a334'
+bedfile: 'EMPTY'
+patient: 'NO'
+chr: '0'
+isARN: 'no'
+max_mem: '50G'
+igh_data: '/mnt/project3/hgayap/pipeline/IGH/data'
