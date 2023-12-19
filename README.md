@@ -18,6 +18,13 @@ For pip, first create a virtual environmentW:
 pip install -r requirements.txt
 ```
 
+### Use the Docker File
+It's also possible to use our generated Dockerfile. Please download it using : 
+```sh
+docker pull gthesprit/cll_env_cmpnb-image
+```
+
+
 ## Required Inputs 
 
 This workflow requires a BAM file and a YAML configuration file. The configuration file should specify the following parameters:
